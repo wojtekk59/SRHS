@@ -31,6 +31,13 @@ if (!isset($_SESSION['username'])) {
         <a href="contact.php">Kontakt</a>
         <a href="logout.php">Wyloguj się</a>
     </nav>
+    <nav class="nav">
+        <a href="welcome.php">Strona główna</a>
+        <a href="reservation.php">Rezerwacja hali</a>
+        <a href="profile.php">Mój profil</a>
+        <a href="contact.php">Kontakt</a>
+        <a href="logout.php">Wyloguj się</a>
+    </nav>
 
     <div class="container">
         <p> Witaj w Systemie Rezerwacji Hali Sportowej w skrócie SRHS. System ten umożliwia w prosty sposób sprawdzenia dostępności hali sportowej oraz zarezerwowanie wybranego terminu. Zapraszamy do korzystania z naszej hali!</p>
