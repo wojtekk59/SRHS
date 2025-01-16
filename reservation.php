@@ -94,6 +94,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <nav class="nav">
         <a href="welcome.php">Strona główna</a>
         <a href="reservation.php">Rezerwacja hali</a>
+        <a href="reservation_list.php">Aktualne rezerwacje</a>
         <a href="profile.php">Mój profil</a>
         <a href="contact.php">Kontakt</a>
         <a href="logout.php">Wyloguj się</a>
